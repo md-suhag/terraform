@@ -1,0 +1,10 @@
+# Terraform
+**/.terraform/
+**/*.tfstate
+**/*.tfstate.*
+
+# Private keys
+**/*.pem
+**/*.key
+**/*.pub
+**/my-server
